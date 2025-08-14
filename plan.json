@@ -1,0 +1,10 @@
+[
+  {
+    "orderId": "ORD-001",
+    "assignedCourier": "Weevo"
+  },
+  {
+    "orderId": "ORD-002",
+    "assignedCourier": "Bosta"
+  }
+]

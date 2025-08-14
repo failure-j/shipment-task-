@@ -1,0 +1,25 @@
+[
+  {
+    "orderId": "ORD-001",
+    "city": "6th of October",
+    "zoneHint": "6th of October- El Montazah",
+    "address": "6 Oct - El Montazh,, st. 12",
+    "paymentType": "COD",
+    "productType": "fragile",
+    "weight": 2,
+    "deadline": "2025-08-12T13:30:00.000Z",
+    "warnings": [
+      "Address conflict: \"6 Oct - El Montazh,, st. 12\" vs \"6th of Oct., El-Montazah st 12\""
+    ]
+  },
+  {
+    "orderId": "ORD-002",
+    "city": "Giza",
+    "zoneHint": "Dokki",
+    "address": "12 Dokki St.",
+    "paymentType": "Prepaid",
+    "productType": "standard",
+    "weight": 3,
+    "deadline": "2025-08-12T15:00:00.000Z"
+  }
+]
